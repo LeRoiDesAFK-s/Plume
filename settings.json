@@ -1,0 +1,32 @@
+{
+    "shortcuts": {
+        "Quitter": "Ctrl+K",
+        "Annuler": "Ctrl+Z",
+        "Refaire": "Ctrl+Y",
+        "Gras": "Ctrl+G",
+        "Soulign\u00e9": "Ctrl+U",
+        "Italique": "Ctrl+I",
+        "Indice": "Ctrl+=",
+        "Exposant": "Ctrl++",
+        "Sauvegarder": "Ctrl+S"
+    },
+    "menuOrder": [
+        "Fichier",
+        "\u00c9dition",
+        "Insertion",
+        "Formatage",
+        "Personnalisation"
+    ],
+    "customToolbarActions": [
+        "Ouvrir...",
+        "Sauvegarder",
+        "Annuler",
+        "Refaire",
+        "Gras",
+        "Soulign\u00e9",
+        "Italique",
+        "Indice",
+        "Exposant",
+        "Ins\u00e9rer une image"
+    ]
+}
